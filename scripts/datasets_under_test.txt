@@ -1,4 +1,0 @@
-L1_osm_cellids_200M_uint64
-L2_osm_cellids_200M_uint64
-L3_osm_cellids_200M_uint64
-L4_osm_cellids_200M_uint64
