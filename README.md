@@ -1,5 +1,5 @@
 # Datasets
-This repository stores the Supplementary File and Datasets for the paper titled "Standard Vs Uniform Binary Search and Their Variants  in Learned  Static Indexing: The Case of the Searching on Sorted Data Benchmarking Software Platform" submitted to "Software: Practice and Experience".
+This repository stores Datasets for the paper titled "Standard Vs Uniform Binary Search and Their Variants  in Learned  Static Indexing: The Case of the Searching on Sorted Data Benchmarking Software Platform" submitted to "Software: Practice and Experience".
 
 ## Synthetic Datasets
 
